@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Fuwa
 
-### Full-Stack Developer | System Design Enthusiast | Backend Specialist
+### Aspiring Full-Stack Developer | Focused on System Design & Backend | Eager to Learn & Build
 
 [![GitHub followers](https://img.shields.io/github/followers/fuwadog?style=social&logo=github&label=Follow)](https://github.com/fuwadog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhean-salibio/)
