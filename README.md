@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF8000&center=true&vCenter=true&width=900&lines=const+developer+%3D+%7B;%22name%22%3A+%22Fuwa%22%2C;%22passion%22%3A+%22Building+Systems%22;%7D%3B" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2300&pause=900&deleteSpeed=35&color=FF8000&center=true&vCenter=true&width=1000&lines=const+fuwa+%3D+%7B;role%3A+%22Full-Stack+Developer%22%2C;focus%3A+%5B%22Backend%22%2C+%22AI%22%2C+%22Systems%22%5D%2C;building%3A+%22Scalable+Apps%22%2C;status%3A+%22Always+Learning%22%7D%3B" />
 
 **Backend-focused Full-Stack Developer** | Building systems that actually work  
 *Available for internships & meaningful collaboration*
@@ -105,11 +105,6 @@ Learn: Token optimization, caching strategies, memory management
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### AI/LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA%20AI-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 </div>
 
