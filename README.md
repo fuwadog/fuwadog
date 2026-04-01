@@ -1,86 +1,190 @@
 <div align="center">
 
-# 👋 Hello, I'm Fuwa
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF8000&center=true&vCenter=true&width=900&lines=const+developer+%3D+%7B;%22name%22%3A+%22Fuwa%22%2C;%22passion%22%3A+%22Building+Systems%22;%7D%3B" alt="Typing intro" />
 
-### Aspiring Full-Stack Developer | Focused on System Design & Backend | Eager to Learn & Build
+**Backend-focused Full-Stack Developer** | Building systems that actually work  
+*Available for internships & meaningful collaboration*
 
-[![GitHub followers](https://img.shields.io/github/followers/fuwadog?style=social&logo=github&label=Follow)](https://github.com/fuwadog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhean-salibio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.dogfluffy26@gmail.com)
-
----
-
-## 💫 About Me
-
-| 🚀 **Currently Building**     | Full-stack applications with proper backend structure, database-driven features, and clean frontend integration |
-| :---------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| 📚 **Deepening Knowledge**    | System design, database modeling, Docker, and AI automation using n8n                                           |
-| 🤝 **Open to Collaboration**  | Meaningful student or open-source projects, especially backend-heavy ones                                       |
-| 🎯 **Actively Learning**      | How to design scalable systems and make better architectural decisions                                          |
-| 💡 **Comfortable Discussing** | Java, C#, SQL, backend logic, and full-stack fundamentals                                                       |
-| 📧 **Best Way to Reach Me**   | Through GitHub (issues, discussions, or profile contact links)                                                  |
-| 🔧 **My Focus**               | How a system works internally rather than just making it look good                                              |
+<p>
+  <a href="https://github.com/fuwadog"><img src="https://img.shields.io/github/followers/fuwadog?style=for-the-badge&logo=github&label=Follow&color=FF8000&labelColor=0F172A" /></a>
+  <a href="https://rhean-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-rhean--dev.vercel.app-47C6ED?style=for-the-badge&logo=vercel&logoColor=FFF8F2&labelColor=0F172A" /></a>
+  <a href="https://www.linkedin.com/in/rhean-salibio/"><img src="https://img.shields.io/badge/LinkedIn-@rhean--salibio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" /></a>
+  <a href="mailto:andrerhean@gmail.com"><img src="https://img.shields.io/badge/Email-andrerhean@gmail.com-E46905?style=for-the-badge&logo=gmail&logoColor=FFF8F2&labelColor=0F172A" /></a>
+</p>
+<img src="https://img.shields.io/badge/Response%20Time-24h-47C6ED?style=flat-square" />
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🎯 Quick Pitch
 
-### Backend
+I don't build interfaces. **I build systems.** Focus: Database → API → Backend → Full-stack delivery.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Frontend
-
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+```javascript
+const Fuwa = {
+  role: "Full-Stack Developer",
+  focus: "System Design & Backend Architecture",
+  philosophy: "Code that scales. Systems that last.",
+  languages: ["Python", "TypeScript", "Java", "C#"],
+  databases: ["PostgreSQL", "MySQL", "Redis"],
+  DevOps: ["Docker", "Vercel", "Netlify"],
+  responseTime: "~24 hours"
+};
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 4 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuwadog&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=61dafb&title_color=61dafb&text_color=c9d1d9&bg_color=0d1117)
+### 1️⃣ **Forvia** — B2B Marketplace  
+Multi-tenant platform connecting businesses with developers. Real marketplace logic.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuwadog&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=61dafb&text_color=c9d1d9&bg_color=0d1117)
+```
+Stack: Next.js • TypeScript • PostgreSQL • Redis • Docker
+Learn: Marketplace architecture, role-based systems, database design
+```
+🔗 [GitHub](https://github.com/fuwadog/forvia) | 🚀 Coming Soon
+
+---
+
+### 2️⃣ **PatchPilot** — AI Code Refactoring CLI  
+Terminal tool that analyzes code & applies AI-generated fixes. Works with any LLM.
+
+```
+Stack: Python • LLM APIs • PyPDF2 • prompt-toolkit
+Learn: Provider-agnostic APIs, context optimization, CLI design
+```
+🔗 [GitHub](https://github.com/fuwadog/patchpilot) | 📦 PyPI Ready
 
 ---
 
-## 🐍 Contribution Graph
+### 3️⃣ **Gemini Chat App** — Real-time AI Chat  
+Zero-friction chat with Google Gemini. Dark/light mode. Live in production.
 
-![Contribution Graph](https://ghchart.rshah.org/61dafb/fuwadog)
+```
+Stack: Next.js 13 • TypeScript • Google Gemini API
+Learn: Streaming responses, rate limiting, production deployment
+```
+🔗 [GitHub](https://github.com/fuwadog/gemini-chat-app) | 👉 [Try It](https://web-chat-phi-amber.vercel.app/)
 
 ---
 
-## 👥 Profile Views
+### 4️⃣ **AI Assistant CLI V2** — Smart Codebase Analyzer  
+Analyze entire codebases with NVIDIA Llama 3.1. Uses AST + caching for 70% cost reduction.
 
-![Profile Views](https://komarev.com/ghpvc/?username=fuwadog&style=for-the-badge&color=61dafb)
+```
+Stack: Python • NVIDIA API • AST Analysis • SQLite Caching
+Learn: Token optimization, caching strategies, memory management
+```
+🔗 [GitHub](https://github.com/fuwadog/ai-assist-v2) | 📚 Docs
 
 ---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving it a star!
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333)
 
-Made with ❤️ by [Fuwa](https://github.com/fuwadog)
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=333)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### AI/LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA%20AI-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 </div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fuwadog&show_icons=true&theme=transparent&title_color=FF8000&icon_color=47C6ED&text_color=C9D1D9&bg_color=0d1117&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuwadog&layout=compact&theme=transparent&title_color=FF8000&text_color=C9D1D9&bg_color=0d1117&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=fuwadog&theme=transparent&hide_border=true&ring=FF8000&fire=E46905&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fuwadog&bg_color=0d1117&color=c9d1d9&line=FF8000&point=47C6ED&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🎓 Learning Right Now
+
+```yaml
+Deep Skills:
+  ✅ System Design & Scalable Architecture
+  ✅ Database Optimization & Query Tuning
+  ✅ Docker & Container Orchestration
+  ✅ Token Optimization (LLM Context Windows)
+
+Experimenting:
+  🚀 Vector Databases & RAG
+  🚀 Microservices Patterns
+  🚀 GraphQL APIs
+  🚀 Kubernetes
+```
+
+---
+
+## 💪 What Sets Me Apart
+
+| 🔍 | 🏗️ | 🚀 | 🧠 |
+|---|---|---|---|
+| **Write Code** | **Design Systems** | **Ship Products** | **Optimize Performance** |
+| Backend focused | Database architecture | Live deployments | Context windows, caching |
+
+---
+
+## 🤝 Let's Build
+
+**Looking for:**
+- 🏢 Internships (backend-heavy preferred)
+- 🌐 Open-source with real depth
+- 💡 Co-founders for ambitious ideas
+- 📚 Mentorship in system design
+
+**Response:** Usually within 24 hours
+
+<div align="center">
+
+## 🔗 Links
+
+[🌐 Portfolio](https://rhean-dev.vercel.app/) | [💻 GitHub](https://github.com/fuwadog) | [💼 LinkedIn](https://www.linkedin.com/in/rhean-salibio/) | [📧 Email](mailto:andrerhean@gmail.com)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=fuwadog&style=flat-square&color=FF8000" />
+
+**Shipping code. Building systems. Learning fast.** 🚀
 
 </div>
