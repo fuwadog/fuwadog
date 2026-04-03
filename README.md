@@ -69,7 +69,7 @@ Stack: Next.js 13 · TypeScript · Google Gemini API
 Learn: Streaming responses, rate limiting, production deployment
 ```
 
-🔗 [GitHub](https://github.com/fuwadog/gemini-chat-app) · 👉 [Try It](https://web-chat-phi-amber.vercel.app/)
+🔗 [GitHub](https://github.com/fuwadog/gemini-chat-app) · 👉 [Try It](https://web-chat-ruddy.vercel.app/)
 
 ---
 
