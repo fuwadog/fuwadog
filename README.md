@@ -126,7 +126,7 @@ Learn: Token optimization, caching strategies, memory management
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=fuwadog&theme=transparent&hide_border=true&ring=c6a0f6&fire=f5a97f&currStreakLabel=ed8796&sideLabels=cad3f5&dates=b8c0e0" />
+<img src="https://github-readme-streak-stats-black-phi.vercel.app?user=fuwadog&theme=transparent&hide_border=true&ring=c6a0f6&fire=f5a97f&currStreakLabel=ed8796&sideLabels=cad3f5&dates=b8c0e0" />
 
 </div>
 
