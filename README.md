@@ -126,7 +126,9 @@ Learn: Token optimization, caching strategies, memory management
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-black-phi.vercel.app?user=fuwadog&theme=transparent&hide_border=true&ring=c6a0f6&fire=f5a97f&currStreakLabel=ed8796&sideLabels=cad3f5&dates=b8c0e0" />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-black-phi.vercel.app?user=fuwadog&theme=transparent&hide_border=true&ring=c6a0f6&fire=f5a97f&currStreakLabel=ed8796&sideLabels=cad3f5&dates=b8c0e0" alt="GitHub Streak" />
+</a>
 
 </div>
 
