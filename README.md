@@ -119,8 +119,8 @@ Learn: Token optimization, caching strategies, memory management
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=fuwadog&show_icons=true&theme=transparent&title_color=c6a0f6&icon_color=8aadf4&text_color=cad3f5&bg_color=24273a&hide_border=true" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fuwadog&layout=compact&theme=transparent&title_color=c6a0f6&text_color=cad3f5&bg_color=24273a&hide_border=true" height="165" />
+<img src="https://github-readme-stats-sooty-three-75.vercel.app/api?username=fuwadog&show_icons=true&theme=transparent&title_color=c6a0f6&icon_color=8aadf4&text_color=cad3f5&bg_color=24273a&hide_border=true" height="165" />
+<img src="https://github-readme-stats-sooty-three-75.vercel.app/api/top-langs/?username=fuwadog&layout=compact&theme=transparent&title_color=c6a0f6&text_color=cad3f5&bg_color=24273a&hide_border=true" height="165" />
 
 </div>
 
