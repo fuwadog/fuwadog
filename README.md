@@ -1,192 +1,278 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2300&pause=900&deleteSpeed=35&color=c6a0f6&center=true&vCenter=true&width=1000&lines=const+fuwa+%3D+%7B;role%3A+%22Full-Stack+Developer%22%2C;focus%3A+%5B%22Backend%22%2C+%22AI%22%2C+%22Systems%22%5D%2C;building%3A+%22Scalable+Apps%22%2C;status%3A+%22Always+Learning%22%7D%3B" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&deleteSpeed=40&color=a6e3a1&center=true&vCenter=true&width=1000&lines=const+fuwa+%3D+%7B;role%3A+%22Full-Stack+Developer%22%2C;expertise%3A+%5B%22Backend+Architecture%22%2C+%22AI+Systems%22%2C+%22Cloud+Scale%22%5D%2C;impact%3A+%22Production+Ready%22%2C;status%3A+%22Shipping+Fast%22%7D%3B" alt="Developer intro" />
 
-**Backend-focused Full-Stack Developer** · Building systems that actually work  
-*Available for internships & meaningful collaboration*
+### ⚡ Backend-Driven Full-Stack Engineer
+
+**Building scalable systems from database to deployment**  
+_Seeking internships, meaningful projects & ambitious teams_
 
 <p>
-  <a href="https://github.com/fuwadog"><img src="https://img.shields.io/github/followers/fuwadog?style=for-the-badge&logo=github&label=Follow&color=c6a0f6&labelColor=24273a" /></a>
-  <a href="https://rhean-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-rhean--dev.vercel.app-8bd5ca?style=for-the-badge&logo=vercel&logoColor=24273a&labelColor=24273a" /></a>
-  <a href="https://www.linkedin.com/in/rhean-salibio/"><img src="https://img.shields.io/badge/LinkedIn-@rhean--salibio-8aadf4?style=for-the-badge&logo=linkedin&logoColor=24273a&labelColor=24273a" /></a>
-  <a href="mailto:andrerhean@gmail.com"><img src="https://img.shields.io/badge/Email-andrerhean@gmail.com-f5a97f?style=for-the-badge&logo=gmail&logoColor=24273a&labelColor=24273a" /></a>
+  <a href="https://github.com/fuwadog"><img src="https://img.shields.io/github/followers/fuwadog?style=for-the-badge&logo=github&label=Follow&color=a6e3a1&labelColor=24273a" /></a>
+  <a href="https://rhean-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-rhean--dev-94e2d5?style=for-the-badge&logo=vercel&logoColor=24273a&labelColor=24273a" /></a>
+  <a href="https://www.linkedin.com/in/rhean-salibio/"><img src="https://img.shields.io/badge/LinkedIn-%40rhean--salibio-8aadf4?style=for-the-badge&logo=linkedin&logoColor=24273a&labelColor=24273a" /></a>
+  <a href="mailto:andrerhean@gmail.com"><img src="https://img.shields.io/badge/Email-andrerhean%40gmail.com-f5a97f?style=for-the-badge&logo=gmail&logoColor=24273a&labelColor=24273a" /></a>
 </p>
-<img src="https://img.shields.io/badge/Response%20Time-24h-8bd5ca?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Response%20Time-24h-a6e3a1?style=flat-square&labelColor=24273a" />
+<img src="https://img.shields.io/badge/Based%20In-Manila%2C%20PH-f0a6d5?style=flat-square&labelColor=24273a" />
 
 </div>
 
 ---
 
-## 🎯 Quick Pitch
+## 🎯 About Me
 
-I don't build interfaces. **I build systems.** Focus: Database → API → Backend → Full-stack delivery.
+I architect systems that **scale**. Whether it's designing resilient APIs, optimizing database queries, or orchestrating microservices—I obsess over performance, reliability, and clean code.
 
-```javascript
-const Fuwa = {
-  role: "Full-Stack Developer",
-  focus: "System Design & Backend Architecture",
-  philosophy: "Code that scales. Systems that last.",
-  languages: ["Python", "TypeScript", "Java", "C#"],
-  databases: ["PostgreSQL", "MySQL", "Redis"],
-  DevOps: ["Docker", "Vercel", "Netlify"],
-  responseTime: "~24 hours"
+**My philosophy:** Production-first. Ship fast. Learn faster.
+
+```typescript
+const Developer = {
+  role: "Full-Stack Engineer (Backend-Heavy)",
+  expertise: {
+    backend: [
+      "REST APIs",
+      "System Design",
+      "Database Architecture",
+      "Real-time Systems",
+    ],
+    ai: [
+      "LLM Integration",
+      "RAG Pipelines",
+      "Code Analysis Tools",
+      "Provider-Agnostic Solutions",
+    ],
+    cloud: [
+      "Docker",
+      "Kubernetes",
+      "Cloudflare",
+      "Vercel",
+      "Cloud Optimization",
+    ],
+  },
+  languages: ["TypeScript", "Python", "Java", "C#"],
+  seeking: ["Internships", "Open-source", "Co-founder opportunities"],
+  response: "24 hours guaranteed",
 };
 ```
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-### 1️⃣ **Forvia** — B2B Marketplace  
-Multi-tenant platform connecting businesses with developers. Real marketplace logic.
+### **TechMedian** — Enterprise B2B Marketplace ⚙️ _In Development_
 
-```
-Stack: Next.js · TypeScript · PostgreSQL · Redis · Docker
-Learn: Marketplace architecture, role-based systems, database design
-```
+Architecting a full-stack marketplace with multi-tenant patterns, role-based authorization, and production-grade database migrations.
 
-🔗 [GitHub](https://github.com/fuwadog/forvia) · 🚀 Coming Soon
+- 🔨 **Multi-tenant Auth** — JWT refresh tokens, permission scoping
+- 🔨 **Redis caching** — Query optimization for scale
+- 🔨 **Docker Compose** — Local environment reproducibility
+- 🔨 **PostgreSQL migrations** — Versioned schema management
 
----
-
-### 2️⃣ **PatchPilot** — AI Code Refactoring CLI  
-Terminal tool that analyzes code & applies AI-generated fixes. Works with any LLM.
-
-```
-Stack: Python · LLM APIs · PyPDF2 · prompt-toolkit
-Learn: Provider-agnostic APIs, context optimization, CLI design
-```
-
-🔗 [GitHub](https://github.com/fuwadog/patchpilot) · 📦 PyPI Ready
+**Stack:** Next.js 16 · React 19 · TypeScript · PostgreSQL · Redis · Docker  
+**GitHub:** [fuwadog/techmedian](https://github.com/fuwadog/techmedian)  
+_🔒 This is a private repository. Please contact me for more details about this project._
 
 ---
 
-### 3️⃣ **Gemini Chat App** — Real-time AI Chat  
-Zero-friction chat with Google Gemini. Dark/light mode. Live in production.
+### **PatchPilot** — AI Code Refactoring Engine
 
-```
-Stack: Next.js 13 · TypeScript · Google Gemini API
-Learn: Streaming responses, rate limiting, production deployment
-```
+Terminal-native CLI tool for intelligent code analysis and refactoring. Provider-agnostic LLM support with real-time patch previews.
 
-🔗 [GitHub](https://github.com/fuwadog/gemini-chat-app) · 👉 [Try It](https://web-chat-ruddy.vercel.app/)
+- ✨ **Streaming LLM responses** for instant feedback
+- ✨ **Multi-provider support** (OpenAI, Ollama, custom)
+- ✨ **AST-based code analysis** with Ruff & mypy
+- ✨ **Interactive patch previews** with confirmation workflow
 
----
-
-### 4️⃣ **AI Assistant CLI V2** — Smart Codebase Analyzer  
-Analyze entire codebases with NVIDIA Llama 3.1. Uses AST + caching for 70% cost reduction.
-
-```
-Stack: Python · NVIDIA API · AST Analysis · SQLite Caching
-Learn: Token optimization, caching strategies, memory management
-```
-
-🔗 [GitHub](https://github.com/fuwadog/ai-assist-v2) · 📚 Docs
+**Stack:** Python 3.10+ · prompt-toolkit · OpenAI API · Ruff · mypy  
+**GitHub:** [fuwadog/patchpilot](https://github.com/fuwadog/patchpilot)
 
 ---
 
-## ⚡ Tech Stack
+### **SpecCLI** — AI Specification Generator ⚙️ _In Development_
 
-<div align="center">
+Local-first CLI for drafting, verifying, and finalizing AI-generated specs with optional cloud validation.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=eed49f&labelColor=24273a)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=cad3f5&labelColor=24273a)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=cad3f5&labelColor=24273a)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=cad3f5&labelColor=24273a)
+- 🔨 **Offline-first** with Ollama support
+- 🔨 **Cloud fallback** via NVIDIA NIM
+- 🔨 **Structured output** with SQLite persistence
+- 🔨 **Interactive TUI** with Ink (React for terminals)
+
+**Stack:** TypeScript · Ink · Ollama · NVIDIA NIM · SQLite  
+**GitHub:** [fuwadog/speccli](https://github.com/fuwadog/speccli)  
+_🔒 This is a private repository. Please contact me for more details about this project._
+
+---
+
+### **Web Chat** — Production Gemini Chat Interface
+
+Modern chat application with markdown rendering, theme persistence, and real-time model controls.
+
+- ✨ **Multi-conversation support** with local storage
+- ✨ **Markdown rendering** with syntax highlighting
+- ✨ **Dark/light themes** with system preference detection
+- ✨ **Mobile-optimized** responsive design
+
+**Stack:** Next.js 16 · React 19 · TypeScript · Google Gemini API  
+**Live:** [web-chat-ruddy.vercel.app](https://web-chat-ruddy.vercel.app/)
+
+---
+
+## 💻 Tech Stack
+
+### **Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=24273a&labelColor=24273a)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=24273a&labelColor=24273a)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=24273a&labelColor=24273a)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=24273a&labelColor=24273a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=24273a&labelColor=24273a)
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=cad3f5&labelColor=24273a)
+### **Frontend & Web**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=a6e3a1&labelColor=24273a)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=24273a&labelColor=24273a)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=cad3f5&labelColor=24273a)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=24273a&labelColor=24273a)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=cad3f5&labelColor=24273a)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=cad3f5&labelColor=24273a)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=cad3f5&labelColor=24273a)
+### **Backend & APIs**
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=cad3f5&labelColor=24273a)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=cad3f5&labelColor=24273a)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=cad3f5&labelColor=24273a)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=24273a&labelColor=24273a)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=24273a&labelColor=24273a)
+
+### **Databases & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=24273a&labelColor=24273a)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=24273a&labelColor=24273a)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=24273a&labelColor=24273a)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=24273a&labelColor=24273a)
+
+### **Backend-as-a-Service & Hosting**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=24273a&labelColor=24273a)
+![Upstash](https://img.shields.io/badge/Upstash-00A67E?style=for-the-badge&logo=upstash&logoColor=24273a&labelColor=24273a)
+
+### **Machine Learning & AI**
+
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=24273a&labelColor=24273a)
+
+### **DevOps & Cloud Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=24273a&labelColor=24273a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=24273a&labelColor=24273a)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=24273a&labelColor=24273a)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=a6e3a1&labelColor=24273a)
+
+### **Tools & Utilities**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=24273a&labelColor=24273a)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=a6e3a1&labelColor=24273a)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=24273a&labelColor=24273a)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-sooty-three-75.vercel.app/api?username=fuwadog&show_icons=true&theme=transparent&title_color=a6e3a1&icon_color=94e2d5&text_color=b5bfe2&bg_color=24273a&hide_border=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats-sooty-three-75.vercel.app/api/top-langs/?username=fuwadog&layout=compact&theme=transparent&title_color=a6e3a1&text_color=b5bfe2&bg_color=24273a&hide_border=true&card_width=400" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats-black-phi.vercel.app?user=fuwadog&theme=transparent&hide_border=true&ring=a6e3a1&fire=f5a97f&currStreakLabel=f0a6d5&sideLabels=b5bfe2&dates=6e738d&background=24273a)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fuwadog&bg_color=24273a&color=b5bfe2&line=a6e3a1&point=f5a97f&area=true&hide_border=true&curve=linear)
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats-sooty-three-75.vercel.app/api?username=fuwadog&show_icons=true&theme=transparent&title_color=c6a0f6&icon_color=8aadf4&text_color=cad3f5&bg_color=24273a&hide_border=true" height="165" />
-<img src="https://github-readme-stats-sooty-three-75.vercel.app/api/top-langs/?username=fuwadog&layout=compact&theme=transparent&title_color=c6a0f6&text_color=cad3f5&bg_color=24273a&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-black-phi.vercel.app?user=fuwadog&theme=transparent&hide_border=true&ring=c6a0f6&fire=f5a97f&currStreakLabel=ed8796&sideLabels=cad3f5&dates=b8c0e0" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fuwadog&bg_color=24273a&color=cad3f5&line=c6a0f6&point=f5a97f&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🎓 Learning Right Now
+## 🧠 Currently Learning & Exploring
 
 ```yaml
-Deep Skills:
-  ✅ System Design & Scalable Architecture
-  ✅ Database Optimization & Query Tuning
-  ✅ Docker & Container Orchestration
-  ✅ Token Optimization (LLM Context Windows)
+Deepening Expertise:
+  - 🏗️  Advanced System Design & Distributed Systems
+  - 📊 Database Query Optimization & Index Tuning
+  - 🐳 Kubernetes Orchestration & Production Deployments
+  - 🔗 Vector Databases (Pinecone, Weaviate) & RAG Systems
+  - 💰 Token Optimization for LLM Context Windows
+  - 🚀 Microservices Patterns & gRPC
 
-Experimenting:
-  🚀 Vector Databases & RAG
-  🚀 Microservices Patterns
-  🚀 GraphQL APIs
-  🚀 Kubernetes
+Active Exploration:
+  - GraphQL API Design
+  - Event-Driven Architecture (Kafka, RabbitMQ)
+  - WebSocket & Real-time Protocol Optimization
+  - SOLID Principles in Practice
+  - Machine Learning Ops (MLOps)
 ```
 
 ---
 
-## 💪 What Sets Me Apart
+## 💪 Key Strengths
 
-| 🔍 | 🏗️ | 🚀 | 🧠 |
-|---|---|---|---|
-| **Write Code** | **Design Systems** | **Ship Products** | **Optimize Performance** |
-| Backend focused | Database architecture | Live deployments | Context windows, caching |
+**Production-First Mindset**  
+Every line of code ships with tests, documentation, and proper error handling. No shortcuts, no technical debt.
+
+**Systems Thinking**  
+I don't just build features—I design systems. Database optimization, caching strategies, scalability are built in from day one, not bolted on later.
+
+**Quick Ramp-Up**  
+Can learn new tech stacks in days and contribute meaningfully within weeks. More interested in solving problems than arguing about frameworks.
+
+**Strong Communication**  
+Clear code reviews, thorough documentation, and mentoring mindset. I believe great engineers make teams better.
+
+**Continuous Growth**  
+Actively studying distributed systems, database optimization, and advanced CS concepts. Not just chasing frameworks—building depth.
 
 ---
 
-## 🤝 Let's Build
+## 🤝 Open To Collaboration
 
-**Looking for:**
-- 🏢 Internships (backend-heavy preferred)
-- 🌐 Open-source with real depth
-- 💡 Co-founders for ambitious ideas
-- 📚 Mentorship in system design
+| **Type**             | **Details**                                                |
+| -------------------- | ---------------------------------------------------------- |
+| 🎓 **Internships**   | Backend-heavy teams, real product work, mentorship culture |
+| 🌍 **Open Source**   | Meaningful contributions to production systems             |
+| 🚀 **Co-founders**   | Ambitious ideas with product-market fit potential          |
+| 💼 **Contract Work** | Short-term projects requiring deep expertise               |
 
-**Response:** Usually within 24 hours
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
-## 🔗 Links
+**Choose your preferred channel:**
 
-[🌐 Portfolio](https://rhean-dev.vercel.app/) · [💻 GitHub](https://github.com/fuwadog) · [💼 LinkedIn](https://www.linkedin.com/in/rhean-salibio/) · [📧 Email](mailto:andrerhean@gmail.com)
+| Platform     | Link                                                            |
+| ------------ | --------------------------------------------------------------- |
+| 💼 LinkedIn  | [/in/rhean-salibio](https://www.linkedin.com/in/rhean-salibio/) |
+| 🔗 Portfolio | [rhean-dev.vercel.app](https://rhean-dev.vercel.app/)           |
+| 💻 GitHub    | [@fuwadog](https://github.com/fuwadog)                          |
+| 📧 Email     | [andrerhean@gmail.com](mailto:andrerhean@gmail.com)             |
+
+**Response time:** ⚡ Within 24 hours
+
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=fuwadog&style=flat-square&color=c6a0f6" />
+<div align="center">
 
-**Shipping code. Building systems. Learning fast.** 🚀
+<img src="https://komarev.com/ghpvc/?username=fuwadog&style=flat-square&color=a6e3a1" alt="Profile views" />
+
+### **Shipping code. Building systems. Growing exponentially.**
 
 </div>
