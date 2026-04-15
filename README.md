@@ -15,7 +15,7 @@ _Seeking internships, meaningful projects & ambitious teams_
 </p>
 
 <img src="https://img.shields.io/badge/Response%20Time-24h-a6e3a1?style=flat-square&labelColor=24273a" />
-<img src="https://img.shields.io/badge/Based%20In-Manila%2C%20PH-f0a6d5?style=flat-square&labelColor=24273a" />
+<img src="https://img.shields.io/badge/Based%20In%2C%20PH-f0a6d5?style=flat-square&labelColor=24273a" />
 
 </div>
 
