@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&deleteSpeed=40&color=a6e3a1&center=true&vCenter=true&width=1000&lines=const+fuwa+%3D+%7B;role%3A+%22Full-Stack+Developer%22%2C;expertise%3A+%5B%22Backend+Architecture%22%2C+%22AI+Systems%22%2C+%22Cloud+Scale%22%5D%2C;impact%3A+%22Production+Ready%22%2C;status%3A+%22Shipping+Fast%22%7D%3B" alt="Developer intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&deleteSpeed=40&color=a6e3a1&center=true&vCenter=true&width=1000&lines=const+fuwa+%3D+%7B;role%3A+%22Full-Stack+Dev%22%2C;skills%3A+%5B%22Backend+Arch%22%2C+%22AI+Systems%22%5D%2C;impact%3A+%22Production+Ready%22%2C;status%3A+%22Shipping+Fast%22%7D%3B" alt="Developer intro" />
 
 ### ⚡ Backend-Driven Full-Stack Engineer
 
