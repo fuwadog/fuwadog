@@ -238,7 +238,8 @@ Clear code reviews, thorough documentation, and mentoring mindset. I believe gre
 Actively studying distributed systems, database optimization, and advanced CS concepts. Not just chasing frameworks—building depth.
 
 ---
-
+<div align="center">
+  
 ## 🤝 Open To Collaboration
 
 | **Type**             | **Details**                                                |
@@ -248,11 +249,13 @@ Actively studying distributed systems, database optimization, and advanced CS co
 | 🚀 **Co-founders**   | Ambitious ideas with product-market fit potential          |
 | 💼 **Contract Work** | Short-term projects requiring deep expertise               |
 
+</div>
+
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
+
+## 📬 Let's Connect
 
 **Choose your preferred channel:**
 
