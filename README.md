@@ -61,61 +61,77 @@ const Developer = {
 
 ## 🚀 Featured Projects
 
-### **TechMedian** — Enterprise B2B Marketplace ⚙️ _In Development_
+### **Timekeeper** — Two Seats, One Scoreboard
 
-Architecting a full-stack marketplace with multi-tenant patterns, role-based authorization, and production-grade database migrations.
+A two-player competitive time-tracking web app with live session tracking, gamified scoring, and side-by-side comparisons, built for mutual accountability and friendly competition between exactly two people.
 
-- 🔨 **Multi-tenant Auth** — JWT refresh tokens, permission scoping
-- 🔨 **Redis caching** — Query optimization for scale
-- 🔨 **Docker Compose** — Local environment reproducibility
-- 🔨 **PostgreSQL migrations** — Versioned schema management
+- ✨ **Live session tracking** — Clock in/out with pause/resume, stop and save, and a midnight-to-midnight day timeline
+- ✨ **Gamified scoring** — Crown scores, streaks, and archetype badges (Early Bird, Night Owl, Birb)
+- ✨ **Side-by-side comparison** — Seven stat rows, dual day timelines, and 35-day activity grids
+- ✨ **PWA-ready** — Installable on mobile and desktop with a warm parchment-themed UI
 
-**Stack:** Next.js 16 · React 19 · TypeScript · PostgreSQL · Redis · Docker  
-**GitHub:** [fuwadog/techmedian](https://github.com/fuwadog/techmedian)  
+**Stack:** Next.js 16 · Supabase · TypeScript · Tailwind CSS · Drizzle ORM · Zod  
+**Website:** [time-tracker-ivory-two.vercel.app](https://time-tracker-ivory-two.vercel.app/)  
 _🔒 This is a private repository. Please contact me for more details about this project._
 
 ---
 
-### **PatchPilot** — AI Code Refactoring Engine
+### **Lagunaya Eco-Resort** — Direct-Booking Eco-Resort Platform
 
-Terminal-native CLI tool for intelligent code analysis and refactoring. Provider-agnostic LLM support with real-time patch previews.
+A full-stack direct-booking platform for a fictional eco-resort in El Nido, Palawan, featuring an AI-powered concierge named Maya with RAG retrieval and a complete owner CRM.
 
-- ✨ **Streaming LLM responses** for instant feedback
-- ✨ **Multi-provider support** (OpenAI, Ollama, custom)
-- ✨ **AST-based code analysis** with Ruff & mypy
-- ✨ **Interactive patch previews** with confirmation workflow
+- ✨ **Zero-commission booking** — 4-step flow with GCash/Maya integration, no third-party cut
+- ✨ **AI concierge (Maya)** — Guest-facing chatbot for trip planning plus a Backstage co-worker mode for inbox triage
+- ✨ **Owner CRM** — Kanban deal pipeline, dispatch board, lead tracking, and revenue analytics
+- ✨ **Type-safe end-to-end** — Strict TypeScript with Zod schemas shared across packages, 213 passing tests
 
-**Stack:** Python 3.10+ · prompt-toolkit · OpenAI API · Ruff · mypy  
-**GitHub:** [fuwadog/patchpilot](https://github.com/fuwadog/patchpilot)
-
----
-
-### **SpecCLI** — AI Specification Generator ⚙️ _In Development_
-
-Local-first CLI for drafting, verifying, and finalizing AI-generated specs with optional cloud validation.
-
-- 🔨 **Offline-first** with Ollama support
-- 🔨 **Cloud fallback** via NVIDIA NIM
-- 🔨 **Structured output** with SQLite persistence
-- 🔨 **Interactive TUI** with Ink (React for terminals)
-
-**Stack:** TypeScript · Ink · Ollama · NVIDIA NIM · SQLite  
-**GitHub:** [fuwadog/speccli](https://github.com/fuwadog/speccli)  
+**Stack:** React 18 · TypeScript · Tailwind CSS · Vite · Zustand · Zod  
+**Website:** [lagunaya-eco-resort-website-web.vercel.app](https://lagunaya-eco-resort-website-web.vercel.app/)  
 _🔒 This is a private repository. Please contact me for more details about this project._
 
 ---
 
-### **Web Chat** — Production Gemini Chat Interface
+### **Likha Travel** — AI-Powered Travel Booking Platform
 
-Modern chat application with markdown rendering, theme persistence, and real-time model controls.
+A full-stack travel agency platform featuring an AI chat assistant, custom trip builder, booking flow, and a backstage CRM dashboard, all powered by Cerebras LLM with RAG retrieval.
 
-- ✨ **Multi-conversation support** with local storage
-- ✨ **Markdown rendering** with syntax highlighting
-- ✨ **Dark/light themes** with system preference detection
-- ✨ **Mobile-optimized** responsive design
+- ✨ **AI chat assistant** — RAG-backed widget that recommends packages with prices and guides an inline booking flow
+- ✨ **Custom trip builder** — Multi-step form with fuzzy destination autocomplete, generating downloadable PDF itineraries
+- ✨ **Backstage CRM** — Sales pipeline Kanban, revenue KPIs, and supplier briefs auto-sent on deal close
+- ✨ **PWA & security** — Offline support, strict CSP headers, rate limiting, and prompt injection protections
+
+**Stack:** Next.js 16 · React 19 · TypeScript · Neon Postgres + pgvector · Cerebras gpt-oss-120b  
+**Website:** [likha-orcin.vercel.app](https://likha-orcin.vercel.app/)  
+_🔒 This is a private repository. Please contact me for more details about this project._
+
+---
+
+### **Gemini Chat** — Feature-Rich AI Chat Interface
+
+A multi-conversation AI chat interface powered by Google Gemini models. Users bring their own API key and chat through a modern dashboard with real-time streaming.
+
+- ✨ **Real-time streaming** — SSE-powered responses with a model fallback chain (2.5 Flash → 2.0 Flash)
+- ✨ **Multi-conversation management** — Create, switch, and delete chat threads with auto-generated titles
+- ✨ **Privacy-first API key handling** — Bring-your-own key stored only in sessionStorage, auto-cleared on tab close
+- ✨ **Animated UI** — Splash screen, three-column dashboard, Catppuccin dark/light themes
 
 **Stack:** Next.js 16 · React 19 · TypeScript · Google Gemini API  
+**GitHub:** [fuwadog/Web_chat](https://github.com/fuwadog/Web_chat)  
 **Live:** [web-chat-ruddy.vercel.app](https://web-chat-ruddy.vercel.app/)
+
+---
+
+### **ChronoLedger** — Team Timesheets & Tamper-Proof Audit Trail ⚙️ _In Development_
+
+A team time-tracking and timesheet platform for agencies and compliance-conscious teams, built around the append-only audit-trail engine originally proven out in Timekeeper: every entry is provable, not just logged.
+
+- 🔨 **Timesheets & approvals** — submit, review, and approve team timesheets with per-project billable rates
+- 🔨 **Immutable audit trail** — every edit preserves the prior version first; a full Original → Edited → Current history behind every entry, so "who changed this and when" is provable, not just logged
+- 🔨 **Project budgets & billing** — track estimated vs. actual time per client/project, export timesheets to PDF/CSV/Excel for invoicing
+- 🔨 **Built for regulated teams** — tamper-evident logging modeled on the audit-trail expectations legal, consulting, and healthcare teams already answer to
+
+**Stack:** PENDING
+_🔒 Private repository, early development. Please contact me for more details about this project._
 
 ---
 
