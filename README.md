@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="assets/shiba-run.svg" width="420" alt="pixel shiba in ASCII: idles, runs, then barks" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/shiba-dark.gif">
+    <img src="assets/shiba-light.gif" width="420" alt="pixel shiba in ASCII: idles, runs, then barks">
+  </picture>
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&deleteSpeed=40&color=0c7198&center=true&vCenter=true&width=1000&lines=const+fuwa+%3D+%7B;role%3A+%22Full-Stack+Dev%22%2C;skills%3A+%5B%22Backend+Arch%22%2C+%22AI+Systems%22%5D%2C;impact%3A+%22Production+Ready%22%2C;status%3A+%22Shipping+Fast%22%7D%3B" alt="Developer intro" />
 
