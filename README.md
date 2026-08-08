@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="assets/shiba-run.svg" width="420" alt="pixel shiba in ASCII: idles, runs, then barks" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=800&deleteSpeed=40&color=0c7198&center=true&vCenter=true&width=1000&lines=const+fuwa+%3D+%7B;role%3A+%22Full-Stack+Dev%22%2C;skills%3A+%5B%22Backend+Arch%22%2C+%22AI+Systems%22%5D%2C;impact%3A+%22Production+Ready%22%2C;status%3A+%22Shipping+Fast%22%7D%3B" alt="Developer intro" />
 
 ### ⚡ Backend-Driven Full-Stack Engineer
 
-**Building scalable systems from database to deployment**  
+**Building scalable systems from database to deployment**
 _Seeking internships, meaningful projects & ambitious teams_
 
 <p>
@@ -51,7 +53,16 @@ const Developer = {
       "Cloud Optimization",
     ],
   },
-  languages: ["TypeScript", "Python", "Rust", "Go", "C/C++", "Java", "C#", "JavaScript"],
+  languages: [
+    "TypeScript",
+    "Python",
+    "Rust",
+    "Go",
+    "C/C++",
+    "Java",
+    "C#",
+    "JavaScript",
+  ],
   seeking: ["Internships", "Open-source", "Co-founder opportunities"],
   response: "24 hours guaranteed",
 };
@@ -70,8 +81,8 @@ A two-player competitive time-tracking web app with live session tracking, gamif
 - ✨ **Side-by-side comparison** — Seven stat rows, dual day timelines, and 35-day activity grids
 - ✨ **PWA-ready** — Installable on mobile and desktop with a warm parchment-themed UI
 
-**Stack:** Next.js 16 · Supabase · TypeScript · Tailwind CSS · Drizzle ORM · Zod  
-**Website:** [time-tracker-ivory-two.vercel.app](https://time-tracker-ivory-two.vercel.app/)  
+**Stack:** Next.js 16 · Supabase · TypeScript · Tailwind CSS · Drizzle ORM · Zod
+**Website:** [time-tracker-ivory-two.vercel.app](https://time-tracker-ivory-two.vercel.app/)
 _🔒 This is a private repository. Please contact me for more details about this project._
 
 ---
@@ -85,8 +96,8 @@ A full-stack direct-booking platform for a fictional eco-resort in El Nido, Pala
 - ✨ **Owner CRM** — Kanban deal pipeline, dispatch board, lead tracking, and revenue analytics
 - ✨ **Type-safe end-to-end** — Strict TypeScript with Zod schemas shared across packages, 213 passing tests
 
-**Stack:** React 18 · TypeScript · Tailwind CSS · Vite · Zustand · Zod  
-**Website:** [lagunaya-eco-resort-website-web.vercel.app](https://lagunaya-eco-resort-website-web.vercel.app/)  
+**Stack:** React 18 · TypeScript · Tailwind CSS · Vite · Zustand · Zod
+**Website:** [lagunaya-eco-resort-website-web.vercel.app](https://lagunaya-eco-resort-website-web.vercel.app/)
 _🔒 This is a private repository. Please contact me for more details about this project._
 
 ---
@@ -100,8 +111,8 @@ A full-stack travel agency platform featuring an AI chat assistant, custom trip 
 - ✨ **Backstage CRM** — Sales pipeline Kanban, revenue KPIs, and supplier briefs auto-sent on deal close
 - ✨ **PWA & security** — Offline support, strict CSP headers, rate limiting, and prompt injection protections
 
-**Stack:** Next.js 16 · React 19 · TypeScript · Neon Postgres + pgvector · Cerebras gpt-oss-120b  
-**Website:** [likha-orcin.vercel.app](https://likha-orcin.vercel.app/)  
+**Stack:** Next.js 16 · React 19 · TypeScript · Neon Postgres + pgvector · Cerebras gpt-oss-120b
+**Website:** [likha-orcin.vercel.app](https://likha-orcin.vercel.app/)
 _🔒 This is a private repository. Please contact me for more details about this project._
 
 ---
@@ -115,8 +126,8 @@ A multi-conversation AI chat interface powered by Google Gemini models. Users br
 - ✨ **Privacy-first API key handling** — Bring-your-own key stored only in sessionStorage, auto-cleared on tab close
 - ✨ **Animated UI** — Splash screen, three-column dashboard, Catppuccin dark/light themes
 
-**Stack:** Next.js 16 · React 19 · TypeScript · Google Gemini API  
-**GitHub:** [fuwadog/Web_chat](https://github.com/fuwadog/Web_chat)  
+**Stack:** Next.js 16 · React 19 · TypeScript · Google Gemini API
+**GitHub:** [fuwadog/Web_chat](https://github.com/fuwadog/Web_chat)
 **Live:** [web-chat-ruddy.vercel.app](https://web-chat-ruddy.vercel.app/)
 
 ---
@@ -245,19 +256,19 @@ Active Exploration:
 
 ## 💪 Key Strengths
 
-**Production-First Mindset**  
+**Production-First Mindset**
 Every line of code ships with tests, documentation, and proper error handling. No shortcuts, no technical debt.
 
-**Systems Thinking**  
+**Systems Thinking**
 I don't just build features—I design systems. Database optimization, caching strategies, scalability are built in from day one, not bolted on later.
 
-**Quick Ramp-Up**  
+**Quick Ramp-Up**
 Can learn new tech stacks in days and contribute meaningfully within weeks. More interested in solving problems than arguing about frameworks.
 
-**Strong Communication**  
+**Strong Communication**
 Clear code reviews, thorough documentation, and mentoring mindset. I believe great engineers make teams better.
 
-**Continuous Growth**  
+**Continuous Growth**
 Actively studying distributed systems, database optimization, and advanced CS concepts. Not just chasing frameworks—building depth.
 
 ---
@@ -265,7 +276,6 @@ Actively studying distributed systems, database optimization, and advanced CS co
 ## 🤝 Open To Collaboration
 
 <div align="center">
-  
 
 | **Type**             | **Details**                                                |
 | -------------------- | ---------------------------------------------------------- |
