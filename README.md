@@ -209,13 +209,13 @@ _🔒 Private repository, early development. Please contact me for more details 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sooty-three-75.vercel.app/api?username=fuwadog&show_icons=true&theme=transparent&title_color=0c7198&icon_color=ff8b0f&text_color=0c7198&bg_color=1a2332&hide_border=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
-
-</div>
+<img src="https://github-readme-stats-sooty-three-75.vercel.app/api/top-langs/?username=fuwadog&layout=compact&theme=transparent&title_color=0c7198&text_color=0c7198&bg_color=1a2332&hide_border=true&card_width=400" alt="Top Languages" />
 
 <div align="center">
 
-<img src="https://github-readme-stats-sooty-three-75.vercel.app/api/top-langs/?username=fuwadog&layout=compact&theme=transparent&title_color=0c7198&text_color=0c7198&bg_color=1a2332&hide_border=true&card_width=400" alt="Top Languages" />
+<img src="https://github-readme-stats-sooty-three-75.vercel.app/api?username=fuwadog&show_icons=true&theme=transparent&title_color=0c7198&icon_color=ff8b0f&text_color=0c7198&bg_color=1a2332&hide_border=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
+
+</div>
 
 </div>
 
