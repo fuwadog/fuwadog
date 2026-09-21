@@ -212,17 +212,10 @@ _🔒 Private repository, early development. Please contact me for more details 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats-sooty-three-75.vercel.app/api/top-langs/?username=fuwadog&layout=compact&theme=transparent&title_color=0c7198&text_color=0c7198&bg_color=1a2332&hide_border=true&card_width=400" alt="Top Languages" />
-
-<div align="center">
-
-<img src="https://github-readme-stats-sooty-three-75.vercel.app/api?username=fuwadog&show_icons=true&theme=transparent&title_color=0c7198&icon_color=ff8b0f&text_color=0c7198&bg_color=1a2332&hide_border=true&rank_icon=github&card_width=400" alt="GitHub Stats" />
-
-</div>
-
-</div>
+<p align="center">
+  <img width="375" height="215" src="https://github-stats-extended-frontend-lake-psi.vercel.app/api?username=fuwadog&show_icons=true&include_all_commits=true&rank_icon=github&icon_color=ff8b0f&ring_color=0c7198&card_width=375&line_height=28&title_color=0c7198&text_color=0c7198&bg_color=1a2332&border_color=0c7198&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img width="375" height="215" src="https://github-stats-extended-frontend-lake-psi.vercel.app/api/top-langs?username=fuwadog&layout=donut&langs_count=4&card_width=325&title_color=0c7198&text_color=0c7198&bg_color=1a2332&border_color=0c7198&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
 
 <div align="center">
 
