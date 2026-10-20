@@ -58,7 +58,6 @@
 <table width="100%" border="1" cellpadding="20" cellspacing="0">
   <tr><td colspan="2" align="center">
     <p><a href="assets/timekeeper.png"><img src="assets/timekeeper.png" width="840" alt="Timekeeper dashboard in dark mode showing the session timer, daily timeline, time totals, goal progress, and weekly activity chart." /></a></p>
-    <p><a href="assets/timekeeper.png">View full-size dashboard ↗</a></p>
   </td></tr>
   <tr><td width="60%" valign="top">
     <h3><strong>04 / Something a little different</strong></h3>
