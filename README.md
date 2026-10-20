@@ -100,26 +100,32 @@
 What I'm using lately, grouped by where it actually shows up. Not a list of everything I've ever opened.
 
 <table width="100%" border="1" cellpadding="20" cellspacing="0">
-  <tr><td width="50%" valign="top">
+  <tr><td width="420" valign="top">
     <h3><strong>05 / At work</strong></h3>
     <p><strong>Web &amp; cloud</strong></p>
     <p>Astro for the web side.<br />Cloudflare, Google Cloud, and AWS for the cloud stack.</p>
+  </td><td width="420" valign="top">
+    <h3><strong>06 / Personal toolbox</strong></h3>
+    <p><strong>Local tools &amp; research</strong></p>
+    <p>TypeScript &amp; Bun.<br />SQLite &amp; Docker.</p>
+  </td></tr>
+  <tr><td width="420" valign="top">
     <p>
       <img src="https://img.shields.io/badge/Astro-f3c8d7?style=for-the-badge&amp;logo=astro&amp;logoColor=352936" alt="Astro" />
       <img src="https://img.shields.io/badge/Cloudflare-f3c8d7?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=352936" alt="Cloudflare" />
     </p>
-    <p>
-      <img src="https://img.shields.io/badge/Google_Cloud-f3c8d7?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=352936" alt="Google Cloud" />
-      <img src="https://img.shields.io/badge/AWS-f3c8d7?style=for-the-badge" alt="AWS" />
-    </p>
-  </td><td width="50%" valign="top">
-    <h3><strong>06 / Personal toolbox</strong></h3>
-    <p><strong>Local tools &amp; research</strong></p>
-    <p>TypeScript &amp; Bun.<br />SQLite &amp; Docker.</p>
+  </td><td width="420" valign="top">
     <p>
       <img src="https://img.shields.io/badge/TypeScript-cbbfdf?style=for-the-badge&amp;logo=typescript&amp;logoColor=352936" alt="TypeScript" />
       <img src="https://img.shields.io/badge/Bun-cbbfdf?style=for-the-badge&amp;logo=bun&amp;logoColor=352936" alt="Bun" />
     </p>
+  </td></tr>
+  <tr><td width="420" valign="top">
+    <p>
+      <img src="https://img.shields.io/badge/Google_Cloud-f3c8d7?style=for-the-badge&amp;logo=googlecloud&amp;logoColor=352936" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/AWS-f3c8d7?style=for-the-badge" alt="AWS" />
+    </p>
+  </td><td width="420" valign="top">
     <p>
       <img src="https://img.shields.io/badge/SQLite-cbbfdf?style=for-the-badge&amp;logo=sqlite&amp;logoColor=352936" alt="SQLite" />
       <img src="https://img.shields.io/badge/Docker-cbbfdf?style=for-the-badge&amp;logo=docker&amp;logoColor=352936" alt="Docker" />
