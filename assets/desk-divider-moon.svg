@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72">
+  <defs><mask id="crescent"><rect width="1200" height="72" fill="white"/><circle cx="614" cy="25" r="20" fill="black"/></mask></defs>
+  <path d="M8 36h434m316 0h434" stroke="#a794ba" stroke-width="1.5" opacity=".7"/>
+  <circle cx="600" cy="36" r="23" fill="#cbbfdf" mask="url(#crescent)"/>
+  <g fill="#d2c2df"><path d="M510 24l3 9 9 3-9 3-3 9-3-9-9-3 9-3zM687 17l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/><circle cx="550" cy="47" r="2.5"/><circle cx="651" cy="48" r="3"/><circle cx="731" cy="36" r="2"/></g>
+  <path d="M463 36h20m234 0h12" stroke="#b58b9e" stroke-width="1.5"/>
+</svg>

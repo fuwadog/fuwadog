@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="280" viewBox="0 0 440 280" role="img" aria-labelledby="title desc">
+  <title id="title">Panopticon — research, with receipts</title>
+  <desc id="desc">Decorative project artwork: a stack of notes and a magnifying glass in sakura pink and lilac. No application interface or implementation details are shown.</desc>
+  <rect x="1" y="1" width="438" height="278" rx="18" fill="#211d29" stroke="#806177"/>
+  <text x="24" y="38" fill="#f3c8d7" font-family="'Courier New', monospace" font-size="24" font-weight="bold">Panopticon</text>
+  <path d="M24 56h392" stroke="#806177"/>
+  <rect x="135" y="83" width="123" height="128" rx="10" fill="#c4cdb6" transform="rotate(-12 196 147)"/>
+  <rect x="154" y="83" width="123" height="128" rx="10" fill="#cbbfdf" transform="rotate(9 215 147)"/>
+  <rect x="151" y="78" width="123" height="128" rx="10" fill="#f3e9df"/>
+  <path d="M173 104h46m-46 20h78m-78 17h67m-67 17h43m-43 24h31" stroke="#a67c92" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="272" cy="173" r="28" fill="#ead2dc" stroke="#80566f" stroke-width="5"/>
+  <path d="M292 194l25 25" stroke="#cbbfdf" stroke-width="11" stroke-linecap="round"/>
+  <path d="M260 168l8 8 15-15" fill="none" stroke="#80566f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M91 112v14m-7-7h14m235-21v10m-5-5h10" stroke="#b9c7a8" stroke-width="2" stroke-linecap="round"/>
+  <text x="220" y="254" text-anchor="middle" fill="#f3c8d7" font-family="'Courier New', monospace" font-size="19">research, with receipts.</text>
+</svg>

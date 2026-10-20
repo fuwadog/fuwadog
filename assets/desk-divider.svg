@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72">
+  <defs>
+    <g id="sakura"><g fill="#dfa9bf"><ellipse cy="-9" rx="7" ry="11"/><ellipse cy="-9" rx="7" ry="11" transform="rotate(72)"/><ellipse cy="-9" rx="7" ry="11" transform="rotate(144)"/><ellipse cy="-9" rx="7" ry="11" transform="rotate(216)"/><ellipse cy="-9" rx="7" ry="11" transform="rotate(288)"/></g><circle r="3.5" fill="#8d526d"/></g>
+  </defs>
+  <path d="M8 36h394m342 0h448" stroke="#b58b9e" stroke-width="1.5" opacity=".7"/>
+  <path d="M426 36q68-1 111-12t112 4q30 8 72 8" stroke="#a67c92" stroke-width="2" fill="none"/>
+  <use href="#sakura" transform="translate(504 28) scale(.65)"/>
+  <use href="#sakura" transform="translate(579 23)"/>
+  <use href="#sakura" transform="translate(662 31) scale(.8)"/>
+  <path d="M539 45q13-11 23-4-7 13-23 4m78-3q16-7 23 3-14 8-23-3" fill="#a2b294"/>
+  <ellipse cx="701" cy="51" rx="4" ry="8" transform="rotate(32 701 51)" fill="#dfa9bf"/>
+</svg>

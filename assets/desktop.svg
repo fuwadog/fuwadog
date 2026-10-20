@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Fuwadog — a little work, a little wonder</title>
+  <desc id="desc">An original Japanese-inspired bento of illustrated windows in sakura pink, soft lilac, and matcha green. Cherry blossoms frame a little coding desk and notebook, with a crescent moon.</desc>
+  <defs>
+    <pattern id="paper" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="0.8" fill="#765b70" opacity="0.22"/></pattern>
+    <g id="flower">
+      <g fill="#f3c8d7"><ellipse cy="-10" rx="7" ry="11"/><ellipse cy="-10" rx="7" ry="11" transform="rotate(72)"/><ellipse cy="-10" rx="7" ry="11" transform="rotate(144)"/><ellipse cy="-10" rx="7" ry="11" transform="rotate(216)"/><ellipse cy="-10" rx="7" ry="11" transform="rotate(288)"/></g>
+      <circle r="4" fill="#a85e7c"/><circle r="1.4" fill="#f7eddf"/>
+    </g>
+  </defs>
+  <rect width="1200" height="400" rx="22" fill="#211d29"/>
+  <rect width="1200" height="400" rx="22" fill="url(#paper)"/>
+  <rect x="22" y="22" width="678" height="356" rx="18" fill="#f3e9df"/>
+  <rect x="22" y="22" width="678" height="356" rx="18" fill="url(#paper)"/>
+  <path d="M46 64h626" stroke="#d4b7bc"/>
+  <g fill="#a85e7c"><circle cx="48" cy="44" r="4"/><circle cx="64" cy="44" r="4"/><circle cx="80" cy="44" r="4"/></g>
+  <g font-family="'Courier New', monospace" fill="#574352" font-size="17"><text x="104" y="50" letter-spacing="1">FUWADOG / FIELD NOTES</text><text x="645" y="50">01</text></g>
+  <rect x="54" y="88" width="246" height="40" rx="20" fill="#e6d2d8"/>
+  <text x="177" y="114" text-anchor="middle" fill="#694557" font-family="'Courier New', monospace" font-size="17" letter-spacing="1">A PERSONAL SPACE</text>
+  <g fill="#352936" font-family="Georgia, 'Times New Roman', serif" font-size="70"><text x="52" y="203">a little work.</text><text x="52" y="277">a little wonder.</text></g>
+  <text x="56" y="318" fill="#694d60" font-family="'Courier New', monospace" font-size="19">rhean / code, research &amp; things in progress</text>
+  <path d="M56 343h108" stroke="#a85e7c" stroke-width="2"/>
+  <text x="180" y="350" fill="#694d60" font-family="'Courier New', monospace" font-size="16" letter-spacing="1">MAKE YOURSELF AT HOME</text>
+  <rect x="718" y="22" width="460" height="220" rx="18" fill="#3a2c40"/>
+  <g stroke="#70566f" stroke-width="1" opacity="0.6"><path d="M738 82h420M738 142h420M738 202h420M798 42v180M858 42v180M918 42v180M978 42v180M1038 42v180M1098 42v180"/></g>
+  <circle cx="825" cy="103" r="39" fill="#f3dfc7"/><circle cx="842" cy="89" r="36" fill="#3a2c40"/>
+  <g fill="none" stroke="#b58b9e" stroke-linecap="round"><path d="M1178 41c-64 15-91 59-145 67-38 6-62 36-87 52" stroke-width="6"/><path d="M1100 78l-8-37m-38 62-34-32m-10 60 24 36m-66-21-30-23" stroke-width="3"/></g>
+  <use href="#flower" transform="translate(1136 55) scale(.85)"/><use href="#flower" transform="translate(1090 42) scale(.68)"/><use href="#flower" transform="translate(1080 90) scale(1.05)"/><use href="#flower" transform="translate(1020 72) scale(.62)"/><use href="#flower" transform="translate(1034 112) scale(.83)"/><use href="#flower" transform="translate(1038 169) scale(.72)"/><use href="#flower" transform="translate(970 144) scale(.7)"/><use href="#flower" transform="translate(940 124) scale(.55)"/>
+  <g fill="#f3c8d7"><ellipse cx="896" cy="155" rx="4" ry="8" transform="rotate(-32 896 155)"/><ellipse cx="1110" cy="194" rx="4" ry="8" transform="rotate(28 1110 194)"/><ellipse cx="923" cy="70" rx="3" ry="6" transform="rotate(38 923 70)"/></g>
+  <text x="742" y="218" fill="#ead7e3" font-family="'Courier New', monospace" font-size="16" letter-spacing="1">A QUIET CORNER OF THE INTERNET</text>
+  <rect x="718" y="260" width="266" height="118" rx="18" fill="#c4cdb6"/>
+  <g fill="#43503f" font-family="'Courier New', monospace"><text x="738" y="289" font-size="15" letter-spacing="1">ON MY DESK</text><text x="738" y="321" font-size="25" font-weight="bold">Panopticon</text><text x="738" y="350" font-size="16">research with receipts.</text></g>
+  <path d="M942 283v13m-6-6h13" stroke="#52624b" stroke-width="2"/>
+  <rect x="1002" y="260" width="176" height="118" rx="18" fill="#d2c2df"/>
+  <rect x="1019" y="344" width="141" height="7" rx="3" fill="#816b8e"/>
+  <rect x="1027" y="282" width="52" height="43" rx="5" fill="#57445f"/>
+  <rect x="1032" y="287" width="42" height="30" rx="2" fill="#f1d8e1"/>
+  <path d="M1047 325v15m-10 0h30" stroke="#57445f" stroke-width="5"/>
+  <path d="M1040 298l6 5-6 5m13 0h11" fill="none" stroke="#9d5c78" stroke-width="2"/>
+  <rect x="1104" y="306" width="43" height="34" rx="4" fill="#f3e9df"/>
+  <path d="M1113 306v34m7-24h18m-18 8h14m-14 8h18" fill="none" stroke="#a85e7c" stroke-width="2"/>
+  <text x="1090" y="369" fill="#57445f" font-family="'Courier New', monospace" font-size="15" text-anchor="middle">work in progress.</text>
+</svg>

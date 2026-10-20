@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="460" viewBox="0 0 480 460" role="img" aria-labelledby="title desc">
+  <title id="title">Fuwadog — a little work, a little wonder</title>
+  <desc id="desc">A compact sakura bento for smaller screens: a cream field-notes window above cherry blossoms and a crescent moon. Larger lettering and fewer details keep this little workspace legible.</desc>
+  <defs>
+    <g id="flower">
+      <g fill="#f3c8d7"><ellipse cy="-10" rx="7" ry="11"/><ellipse cy="-10" rx="7" ry="11" transform="rotate(72)"/><ellipse cy="-10" rx="7" ry="11" transform="rotate(144)"/><ellipse cy="-10" rx="7" ry="11" transform="rotate(216)"/><ellipse cy="-10" rx="7" ry="11" transform="rotate(288)"/></g>
+      <circle r="4" fill="#a85e7c"/>
+    </g>
+  </defs>
+  <rect width="480" height="460" rx="22" fill="#211d29"/>
+  <rect x="16" y="16" width="448" height="280" rx="16" fill="#f3e9df"/>
+  <g fill="#a85e7c"><circle cx="36" cy="39" r="4"/><circle cx="51" cy="39" r="4"/><circle cx="66" cy="39" r="4"/></g>
+  <path d="M32 58h416" stroke="#d4b7bc"/>
+  <text x="87" y="47" fill="#574352" font-family="'Courier New', monospace" font-size="26">FUWADOG / NOTES</text>
+  <g fill="#352936" font-family="Georgia, 'Times New Roman', serif" font-size="53"><text x="34" y="128">a little work.</text><text x="34" y="188">a little wonder.</text></g>
+  <path d="M36 218h72" stroke="#a85e7c" stroke-width="2"/>
+  <text x="36" y="263" fill="#694d60" font-family="'Courier New', monospace" font-size="27">rhean / things in progress</text>
+  <rect x="16" y="312" width="280" height="132" rx="16" fill="#3a2c40"/>
+  <circle cx="65" cy="359" r="24" fill="#f3dfc7"/><circle cx="77" cy="350" r="23" fill="#3a2c40"/>
+  <path d="M296 326q-50 7-86 40l-47 24m87-51-2-15m-22 28-23-16" fill="none" stroke="#b58b9e" stroke-width="4" stroke-linecap="round"/>
+  <use href="#flower" transform="translate(267 338) scale(.9)"/>
+  <use href="#flower" transform="translate(222 360) scale(.8)"/>
+  <use href="#flower" transform="translate(178 386) scale(.7)"/>
+  <text x="35" y="425" fill="#ead7e3" font-family="'Courier New', monospace" font-size="26">a quiet corner.</text>
+  <rect x="312" y="312" width="152" height="132" rx="16" fill="#c4cdb6"/>
+  <g fill="#43503f" font-family="'Courier New', monospace" font-size="27"><text x="328" y="352">make</text><text x="328" y="386">yourself</text><text x="328" y="420">at home.</text></g>
+</svg>

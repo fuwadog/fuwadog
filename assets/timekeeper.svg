@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="300" viewBox="0 0 440 300" role="img" aria-labelledby="title desc">
+  <title id="title">Timekeeper — two seats, one scoreboard</title>
+  <desc id="desc">Original concept art, not a product screenshot: two little birds, one pink and one green, face a clock below a crown. A parchment frame ties them together.</desc>
+  <rect x="1" y="1" width="438" height="298" rx="16" fill="#f3e9df" stroke="#c9adad"/>
+  <path d="M20 43h400" stroke="#d8bfc2"/>
+  <text x="22" y="28" fill="#795367" font-family="'Courier New', monospace" font-size="15" letter-spacing=".5">TIMEKEEPER / TWO SEATS, ONE SCOREBOARD</text>
+  <circle cx="220" cy="148" r="64" fill="#ead6d9"/>
+  <circle cx="220" cy="148" r="46" fill="#fcf5e9" stroke="#91687a" stroke-width="2"/>
+  <path d="M220 113v7m35 28h-7m-28 35v-7m-35-28h7m28-24v24l17 11" stroke="#795367" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <circle cx="220" cy="148" r="3" fill="#795367"/>
+  <path d="M201 78l-5-20 14 9 10-17 10 17 14-9-5 20z" fill="#c7955d"/>
+  <path d="M202 83h36" stroke="#a47443" stroke-width="3" stroke-linecap="round"/>
+  <rect x="33" y="116" width="104" height="112" rx="30" fill="#e9c2d1"/>
+  <path d="M53 179q-7-33 20-43 33-9 43 24v30H55z" fill="#a76280"/>
+  <path d="M72 161q-6 15 12 22 15 3 20-7" fill="#d593ad"/>
+  <circle cx="102" cy="150" r="3" fill="#352936"/>
+  <path d="M114 152l12 6-12 5" fill="#c7955d"/>
+  <path d="M67 190v9m18-9v9m-23 0h10m8 0h10" stroke="#795367" stroke-width="2"/>
+  <rect x="303" y="116" width="104" height="112" rx="30" fill="#d7dfca"/>
+  <path d="M387 179q7-33-20-43-33-9-43 24v30h61z" fill="#728366"/>
+  <path d="M368 161q6 15-12 22-15 3-20-7" fill="#a6b595"/>
+  <circle cx="338" cy="150" r="3" fill="#352936"/>
+  <path d="M326 152l-12 6 12 5" fill="#c7955d"/>
+  <path d="M373 190v9m-18-9v9m23 0h-10m-8 0h-10" stroke="#52604a" stroke-width="2"/>
+  <g font-family="'Courier New', monospace" text-anchor="middle" fill="#68435a"><text x="85" y="218" font-size="14">YOUR SEAT</text><text x="355" y="218" font-size="14">THEIR SEAT</text><text x="220" y="258" font-size="19">a little friendly competition.</text><text x="220" y="283" font-size="13" letter-spacing=".5">CONCEPT ILLUSTRATION</text></g>
+  <g fill="#b67992"><path d="M48 72l3 6 7 1-5 5 1 7-6-3-6 3 1-7-5-5 7-1z"/><path d="M388 72l3 6 7 1-5 5 1 7-6-3-6 3 1-7-5-5 7-1z"/></g>
+</svg>
